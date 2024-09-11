@@ -1,0 +1,27 @@
+.item{
+width: 500px;
+color: #353935;
+font-size: 20px;
+margin: 0 auto;
+}
+.todoitemname{
+/* font-weight:bold; */
+padding: 20px; 
+    
+}
+.line{
+    border: 1px solid #f0f0f0;
+}
+.delbtn{
+    float: right;
+    padding: 10px 15px;
+    border:none;
+    color:white;
+    background-color: #f7ca18;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-top:-15px ;
+}
+.flexspace{
+    /* display: flex; */
+}
